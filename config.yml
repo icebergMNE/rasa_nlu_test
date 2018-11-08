@@ -1,0 +1,8 @@
+language: "en"
+
+pipeline:
+- name: "nlp_spacy"
+  model: "en"
+- name: "tokenizer_spacy"
+- name: "ner_spacy"
+- name: "ner_crf"
