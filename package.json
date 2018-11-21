@@ -1,0 +1,23 @@
+{
+  "name": "newtest",
+  "version": "1.0.0",
+  "description": "u train.py se stavi fajl za ucenje, config fajl i gdje da sacuva model \r - config.yml sam ja nesto testirao\r - defaultConfig.yml je njihov za nlu\r ## Server\r onda server pozivam samo sa\r ```\r python -m rasa_nlu.server --path .\\projects\\100\\\r ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icebergMNE/rasa_nlu_test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/icebergMNE/rasa_nlu_test/issues"
+  },
+  "homepage": "https://github.com/icebergMNE/rasa_nlu_test#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}

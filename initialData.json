@@ -1,0 +1,973 @@
+{
+  "status":true,
+  "message":"OK",
+  "data":{
+     "_id":"5b9a912ab3739d6e5418f421",
+     "project_status":3,
+     "token":"JIKKRT6V7LDAFY6PKETCTXDXYIAMAC5R",
+     "app_id":"5b9a9126-773b-4cca-93fb-12b5eabdb1a3",
+     "user_id":"59ee2c4cbd2e042820e11c9c",
+     "project_name":"Demo",
+     "__v":18,
+     "file_path":"/uploadsPDFContrats/file-1536865381863.pdf",
+     "file_type":"text",
+     "pattern":[
+        {
+           "entities":[
+
+           ],
+           "text":"Closing Instructions"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":"Mortgage Assurance Inc."
+        },
+        {
+           "entities":[
+
+           ],
+           "text":"MORTGAGE for 21ST , West Avenue 23"
+        },
+        {
+           "entities":[
+              {
+                 "value":"MAI demo new33tot2",
+                 "entity":"intent"
+              },
+              {
+                 "genericType":"date",
+                 "value":"January 1, 1990",
+                 "end":22,
+                 "start":7,
+                 "entity":"datetime"
+              },
+              {
+                 "genericType":"number",
+                 "value":"20397",
+                 "end":38,
+                 "start":33,
+                 "entity":"loan_no"
+              }
+           ],
+           "text":" Date: January 1, 1990 Loan No.: 20397"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" Settlement Agent: DALE J JACKSON PC AT WINWARD LAW Title Order #: foster"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" GROUP Escrow Order #: foster"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" 12600 DEERFIELD PKWY Case No.:"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" Alpharetta, GA 30004 Loan Officer: Christy Aylward"
+        },
+        {
+           "entities":[
+              {
+                 "value":"MAI demo new87r699",
+                 "entity":"intent"
+              },
+              {
+                 "genericType":"number",
+                 "value":"50,000.00",
+                 "end":45,
+                 "start":36,
+                 "entity":"loan_amount"
+              }
+           ],
+           "text":" Attn: DALE J JACKSON Loan Amount: $50,000.00"
+        },
+        {
+           "entities":[
+              {
+                 "value":"MAI demo new9jdu25",
+                 "entity":"intent"
+              },
+              {
+                 "genericType":"contact",
+                 "value":"Liam SMITH",
+                 "end":25,
+                 "start":15,
+                 "entity":"mortg"
+              },
+              {
+                 "genericType":"number",
+                 "value":"1.00",
+                 "end":45,
+                 "start":41,
+                 "entity":"interest_rate"
+              }
+           ],
+           "text":" Mortgagor(s): Liam SMITH Interest Rate: 1.00%"
+        },
+        {
+           "entities":[
+              {
+                 "value":"MAI demo new10jv3tu",
+                 "entity":"intent"
+              },
+              {
+                 "genericType":"free_text",
+                 "value":"Conventional",
+                 "end":55,
+                 "start":43,
+                 "entity":"loan_type"
+              }
+           ],
+           "text":" Property: 1390 Middleburg Hunt Loan Type: Conventional"
+        },
+        {
+           "entities":[
+              {
+                 "value":"MAI demo new1113tvt",
+                 "entity":"intent"
+              },
+              {
+                 "genericType":"number",
+                 "value":"4,189.17",
+                 "end":41,
+                 "start":33,
+                 "entity":"p_and_i"
+              }
+           ],
+           "text":" Lawrenceville, GA 30043 P & I: $4,189.17"
+        },
+        {
+           "entities":[
+              {
+                 "value":"MAI demo new12kao0g",
+                 "entity":"intent"
+              },
+              {
+                 "genericType":"date",
+                 "value":"January 31, 1990",
+                 "end":70,
+                 "start":54,
+                 "entity":"first_payment"
+              }
+           ],
+           "text":" Mailing Address: 1390 Middleburg Hunt First Payment: January 31, 1990"
+        },
+        {
+           "entities":[
+              {
+                 "value":"MAI demo new13nt2t6",
+                 "entity":"intent"
+              },
+              {
+                 "genericType":"date",
+                 "value":"January 26, 1991",
+                 "end":55,
+                 "start":39,
+                 "entity":"last_payment"
+              }
+           ],
+           "text":" Lawrenceville, GA 30043 Last Payment: January 26, 1991"
+        },
+        {
+           "entities":[
+              {
+                 "value":"MAI demo new1444jbw",
+                 "entity":"intent"
+              },
+              {
+                 "genericType":"number",
+                 "value":"12",
+                 "end":9,
+                 "start":7,
+                 "entity":"term"
+              }
+           ],
+           "text":" Term: 12"
+        },
+        {
+           "entities":[
+              {
+                 "value":"MAI demo new15vemg8",
+                 "entity":"intent"
+              },
+              {
+                 "genericType":"date",
+                 "value":"January 3, 1990",
+                 "end":33,
+                 "start":18,
+                 "entity":"disb_date"
+              }
+           ],
+           "text":" Disbursing Date: January 3, 1990"
+        },
+        {
+           "entities":[
+              {
+                 "value":"MAI demo new16pquv7",
+                 "entity":"intent"
+              },
+              {
+                 "genericType":"date",
+                 "value":" November 16, 2017",
+                 "end":35,
+                 "start":17,
+                 "entity":"rec_date"
+              }
+           ],
+           "text":" Rescission Date: November 16, 2017"
+        },
+        {
+           "entities":[
+              {
+                 "value":"MAI demo new17vkagc",
+                 "entity":"intent"
+              },
+              {
+                 "genericType":"date",
+                 "value":"November 13, 2017",
+                 "end":32,
+                 "start":15,
+                 "entity":"closin_date"
+              }
+           ],
+           "text":" Closing Date: November 13, 2017"
+        },
+        {
+           "entities":[
+              {
+                 "value":"MAI demo new18l7390",
+                 "entity":"intent"
+              },
+              {
+                 "genericType":"number",
+                 "value":"50,500.00",
+                 "end":24,
+                 "start":15,
+                 "entity":"wire_amount"
+              }
+           ],
+           "text":" Wire Amount: $50,500.00"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":"Documents for the above referenced borrowers are attached."
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" All other items enclosed are to be properly executed (and notarized where required) and copies conformed and returned to this office with a signed copy of these instructions."
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" DO NOT CHANGE any documents without our specific approval."
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" Borrowers must sign exactly as their names are shown."
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" Return all executed original documents and provide copies to borrowers."
+        },
+        {
+           "entities":[
+
+           ],
+           "text":"Loan Fees:"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":"Line # Paid To/Other Comments At Closing Before Closing"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":"A01 Discount points: Mortgage Assurance Inc."
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" - 0.52% Borrower:"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" Seller: $260.00"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" Lender:"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" Third Party:"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":"A02 Originator compensation: Peachtree Home Loans, LLC - 2.00% Borrower:"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" Seller:"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" Lender: $1,000.00"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" Third Party:"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":"A03 Underwriting Fee: Mortgage Assurance Inc."
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" - 0.64% Borrower: $320.00"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" Seller:"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" Lender:"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" Third Party:"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":"B01 Appraisal fee: PIW Borrower: $450.00"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" Seller:"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" Lender:"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" Third Party:"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":"B02 Credit report: CoreLogic Credco Borrower: $75.00"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" Seller:"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" Lender:"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" Third Party:"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":"B03 TITLE - Attorney fees: Dale J Jackson PC at Windward Law Borrower: $515.00"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" Seller:"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" Lender:"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" Third Party:"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":"Closing Instructions Page 1 of 3"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":"IDS, Inc."
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" - 36287"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":"\f,B04 TITLE - Courier Fee: Executive Title Corporation Borrower: $55.00"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" Seller:"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" Lender:"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" Third Party:"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":"B05 TITLE - ICL Letter: Dale J Jackson PC at Windward Law Borrower: $45.00"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" Seller:"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" Lender:"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" Third Party:"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":"B06 TITLE - Lender's title insurance: Old Republic Borrower: $150.00"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" Seller:"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" Lender:"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" Third Party:"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":"B07 TITLE - Overnight Fee: Windward LAw Group Borrower: $55.00"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" Seller:"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" Lender:"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" Third Party:"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":"B08 TITLE - Title Examination Fee: Dale J Jackson PC at Windward Law Borrower: $300.00"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" Seller:"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" Lender:"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" Third Party:"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":"B09 TITLE - Title Insurance Binder Fee: Dale J Jackson PC at Windward Law Borrower: $20.00"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" Seller:"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" Lender:"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" Third Party:"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":"E01 Mortgage recording fee: Borrower: $65.00"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" Seller:"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" Lender:"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" Third Party:"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":"E02 State tax stamps: Clerk of Superior Court Borrower: $259.00"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" Seller:"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" Lender:"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" Third Party:"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":"F01 Hazard Insurance Premium: Borrower: $171.34"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" Seller:"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" Lender:"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" Third Party:"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":"F03 Prepaid Interest: 14 days at $15.607639 / day Borrower: $218.51"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" Seller:"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" Lender:"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" Third Party:"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":"The CLOSED LOAN FILE must be received by our office following the closing for review prior to us authorizing recording of the documents."
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" You are authorized to record and disburse funds when you are in a position to issue your extended coverage ALTA Lenders policy of title insurance in the amount of the loan, insuring the enclosed Deed of Trust/Mortgage to be a First Lien or charge upon the real property described therein, subject only to the following exceptions numbered:"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":"The Title Policy must contain endorsements"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":"This loan must record on or before November 17, 2017. "
+        },
+        {
+           "entities":[
+
+           ],
+           "text":"Lender is to be at no expense in this transaction."
+        },
+        {
+           "entities":[
+
+           ],
+           "text":"Mortgage Assurance Inc."
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" reserves the right to cancel or amend the terms of this loan and/or instructions at any time prior to recordation of our Mortgage/Deed of Trust."
+        },
+        {
+           "entities":[
+
+           ],
+           "text":"Closing Instructions Page 2 of 3"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":"IDS, Inc."
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" - 36287"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":"\f,Other Conditions:"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":"PTF: Rate Term Refinance:"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":"1. Right of rescission"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":"2. $2000 max cash from borrower"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":"3. $2000 max cash to borrower"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":"*Conv - 2% or $2000 (whichever is less)"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":"4. Evidence payoff of : Citi & Everbank"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":"5. Borrower(s) to sign final 1003"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":"6. No subordinate financing is allowed"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":"7. AKA Affidavit needed"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":"8. If funds to close are required, attorney to provide copy of cashiers check or wire receipt drawn from the following bank account: Bank of America #8588 & 6487 (If cashiers check, account # not required on check."
+        },
+        {
+           "entities":[
+
+           ],
+           "text":")"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":"9. Closing Disclosure to show the appraisal fee of $0 payable to NA--PIW"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":"10.Closing Disclosure to show the credit report fee of $72.50 payable to CIC Credit"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":"EXPIRATIONS:"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":"Credit report (90 days) 1/21/18"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":"GAP 11/16/17"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":"Assets (90 days) 12/19/17"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":"Paystub (90 days) 12/27/17"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":"Payoff 12/1 & 11/13"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":"Lock expires 11/22/17"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":"Title Commitment 12/13/17"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":"Appraisal (120 days) NA--PIW"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":"Hazard (45 days prior to end of policy) 6/25/18"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":"I hereby certify I/we have closed this transaction in accordance with your general and specific closing instructions and the addendum (if applicable) hereto. I/we hereby certify that the closed loan meets all of your requirements as specified in your loan closing instructions."
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" I/we also certify that this loan was closed in accordance with the general Title Requirements and is in compliance with our insured closing letter with your company."
+        },
+        {
+           "entities":[
+
+           ],
+           "text":"Date: November 13, 2017"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":"Mortgage Assurance Inc."
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" By:"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":"Closing Instructions Page 3 of 3"
+        },
+        {
+           "entities":[
+
+           ],
+           "text":"IDS, Inc."
+        },
+        {
+           "entities":[
+
+           ],
+           "text":" - 36287"
+        }
+     ]
+  }
+}

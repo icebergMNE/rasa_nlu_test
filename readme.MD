@@ -7,3 +7,8 @@ onda server pozivam samo sa
 ```
 python -m rasa_nlu.server --path .\projects\100\
 ```
+## Testiranje modela
+```
+node .\testModel.js
+```
+onda ce se generisati fajl testTesa.json samo sto nece biti formatiran
